@@ -24,3 +24,5 @@ public class MaClasse {
         obj.maMethode();
     }
 }
+
+// ceci est un test
