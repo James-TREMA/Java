@@ -1,4 +1,4 @@
-package fr.imts.test;
+package exoClass;
 
 public class Chien {
     public void aboyer() {

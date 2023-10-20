@@ -1,4 +1,4 @@
-package fr.imts.test;
+package exoClass;
 
 public class Cat {
     public void miauler() {
